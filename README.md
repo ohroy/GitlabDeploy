@@ -1,0 +1,2 @@
+# GitlabDeploy
+使用openresty和shell实现的服务端代码自动部署机制
